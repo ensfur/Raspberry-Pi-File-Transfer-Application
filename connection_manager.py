@@ -6,7 +6,7 @@ Connection Manager / Bağlantı Yöneticisi
 Handles SSH/SFTP connections to Raspberry Pi devices.
 Raspberry Pi cihazlarına SSH/SFTP bağlantılarını yönetir.
 
-Author / Yazar: GitHub User
+Author / Yazar: ensfur
 License / Lisans: MIT
 """
 
