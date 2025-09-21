@@ -6,7 +6,7 @@ Configuration Manager / Konfigürasyon Yöneticisi
 Handles application configuration including connection profiles and settings.
 Uygulama konfigürasyonunu yönetir, bağlantı profilleri ve ayarları içerir.
 
-Author / Yazar: GitHub User
+Author / Yazar: ensfur
 License / Lisans: MIT
 """
 
