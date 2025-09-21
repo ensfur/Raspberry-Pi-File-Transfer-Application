@@ -6,7 +6,7 @@ File Transfer Manager / Dosya Transfer Yöneticisi
 Handles file transfer operations between local PC and remote Raspberry Pi.
 Yerel PC ve uzak Raspberry Pi arasında dosya transfer işlemlerini yönetir.
 
-Author / Yazar: GitHub User
+Author / Yazar: ensfur
 License / Lisans: MIT
 """
 
