@@ -16,7 +16,7 @@ Features / Özellikler:
 - Search functionality / Arama işlevselliği
 - Transfer logging / Transfer günlüğü
 
-Author / Yazar: GitHub User
+Author / Yazar: ensfur
 License / Lisans: MIT
 """
 
