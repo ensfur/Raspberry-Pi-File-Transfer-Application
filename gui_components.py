@@ -6,7 +6,7 @@ GUI Components / GUI Bileşenleri
 Reusable GUI components and dialogs for the file transfer application.
 Dosya transfer uygulaması için yeniden kullanılabilir GUI bileşenleri ve diyaloglar.
 
-Author / Yazar: GitHub User
+Author / Yazar: ensfur
 License / Lisans: MIT
 """
 
